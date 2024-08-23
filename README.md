@@ -6,7 +6,7 @@ Estudante de Análise e Desenvolvimento de Sistemas (ADS). Estou apaixonado por 
 
 - 🔭 Atualmente, estou fortalecendo minha base em Java e Spring Boot, aprimorando conceitos fundamentais como API RESTful, JPA (Java Persistence API) , e o uso do Hibernate.
 - 👯 Estou aberto a colaborar em projetos de código aberto e aprender com a comunidade de desenvolvimento.
-- 😄 Pronomes: Ela/Dele
+- 😄 Pronomes: Ele/Dele
 - ⚡ Curiosidade: Adoro programar, minha linguagem preferida é o Java!
 
 ### Linguagens e Tecnologias
