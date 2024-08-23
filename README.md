@@ -6,18 +6,24 @@ Estudante de Análise e Desenvolvimento de Sistemas (ADS). Estou apaixonado por 
 
 - 🔭 Atualmente, estou fortalecendo minha base em Java e Spring Boot, aprimorando conceitos fundamentais como API RESTful, JPA (Java Persistence API) , e o uso do Hibernate.
 - 👯 Estou aberto a colaborar em projetos de código aberto e aprender com a comunidade de desenvolvimento.
-- 😄 Pronomes: rea/leza
+- 😄 Pronomes: Ela/Dele
 - ⚡ Curiosidade: Adoro programar, minha linguagem preferida é o Java!
 
 ### Linguagens e Tecnologias
 
 Aqui estão algumas das linguagens e tecnologias com as quais estou estudando:
 
-<div style="display: inline_block">
-  <img align="center" alt="Luis-Java" src="https://img.shields.io/badge/-Java-%23ED8B00?style=for-the-badge&logo=java&logoColor=white">
-  <img align="center" alt="Luis-SB" src="https://img.shields.io/badge/-Spring%20Boot-%236DB33F?style=for-the-badge&logo=spring&logoColor=white">
-  <img align="center" alt="Luis-Git" src="https://img.shields.io/badge/-Git-%23F05032?style=for-the-badge&logo=git&logoColor=white">
-  <img align="center" alt="Luis-SQL" src="https://img.shields.io/badge/-SQL-%23CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white">
+<div>
+  <img align="center" alt="Rafa-J" height="30" width="40" src="https://raw.githubusercontent.com/Lechinovski/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/java/java-original.svg">
+  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
+    <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg">
+    <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+    <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
+    <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg">
+  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/notion/notion-original.svg">
 </div>
 
 <br>
