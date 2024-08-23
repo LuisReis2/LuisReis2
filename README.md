@@ -25,9 +25,9 @@ Aqui estão algumas das linguagens e tecnologias com as quais estou estudando:
 Aqui estão algumas das linguagens e tecnologias quais pretendo estudar:
 
 <div style="display: inline_block">
-  <img align="center" alt="Luis-Aws" src="https://d1.awsstatic.com/logos/aws_logo_smile_32_64.png">
-  <img align="center" alt="Luis-swift" src="https://img.shields.io/badge/-Docker-%232496ED?style=for-the-badge&logo=docker&logoColor=white">
-  <img align="center" alt="Luis-react" src="https://reactjs.org/logo-og.png">
+  <img align="center" alt="Luis-Aws" src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=ffffff">
+  <img align="center" alt="Luis-swift" src="https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white">
+  <img align="center" alt="Luis-react" src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=ffffff">
 </div>
 
 ##
