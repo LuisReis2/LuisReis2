@@ -4,7 +4,7 @@
 
 Estudante de Análise e Desenvolvimento de Sistemas (ADS). Estou apaixonado por tecnologia e programação, buscando aprimorar minhas habilidades e conhecimentos em desenvolvimento backend e frontend.
 
-- 🔭 Atualmente, estou fortalecendo minha base em Java e Spring Boot, aprimorando conceitos fundamentais como API RESTful, JPA (Java Persistence API) , e o uso do Hibernate.
+- 🔭 Atualmente, estou fortalecendo minha base em Java e Spring Boot, aprimorando conceitos fundamentais como API RESTful, JPA (Jakarta Persistence API) , e o uso do Hibernate.
 - 👯 Estou aberto a colaborar em projetos de código aberto e aprender com a comunidade de desenvolvimento.
 - 😄 Pronomes: Ele/Dele
 - ⚡ Curiosidade: Adoro programar, minha linguagem preferida é o Java!
